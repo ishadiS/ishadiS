@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
+
 # 💫 About Me:
 Hi there 👋,<br>I'm BHIS Pieris, a passionate coder and cyber security enthusiast. 👩‍💻<br><br>🎓 Final Year Undergraduate Student at SLTC Research University<br>🔭 Currently working on honing my skills in Cyber Security and conducting research projects<br>🧠 Currently I'm learning Advanced techniques in Ethical hacking and Network security<br>✉️  You can contact me at ishadispieris@gmail.com<br>
 
