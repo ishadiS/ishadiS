@@ -1,7 +1,10 @@
 
+<h2 align="right"><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a></h2>
 
 <h2 align="center">Hi there 👋,</h2>
-<h2 align="center">I'm BHIS Pieris, A passionate coder and cyber security enthusiast. 👩‍💻</h2>
+<h2 align="center">I'm BHIS Pieris, A passionate coder & cyber security enthusiast. 👩‍💻</h2>
 <br>🎓 Final Year Undergraduate Student at SLTC Research University
 <br>🔭 Currently working on honing my skills in Cyber Security and conducting research projects
 <br>🧠 Currently I'm learning Advanced techniques in Ethical hacking and Network security
@@ -27,10 +30,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ishadiS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a>
 
 ---
 
