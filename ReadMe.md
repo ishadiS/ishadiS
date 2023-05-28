@@ -38,6 +38,19 @@
 <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compac0t")(br/)
      </a></p>
 
+<p align="center">
+<a href="https://github.com/re4nightwing">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false">
+</a></p>
+
+<p align="center">
+<a href="https://github.com/re4nightwing">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compac0t">
+</a> </p>
+
+
 ## 🏆 GitHub Trophies
 <p align="center">
 <a href="https://github.com">
