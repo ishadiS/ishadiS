@@ -5,7 +5,7 @@
 <h2 align="center">Hi there 👋,</h2>
 <h2 align="center">I'm BHIS Pieris, a passionate coder & Cyber Security enthusiast. 👩‍💻</h2>
 <br>🎓 Final Year Undergraduate student at SLTC Research University
-<br>🔭 Currently working on honing my skills in Cyber Security and conducting research projects
+<br>🔭 Working on honing my skills in Cyber Security and conducting research projects
 <br>🧠 Currently I'm learning Advanced techniques in Ethical Hacking and Network Security
 <br>🤝 I'm seeking open-source collaboration opportunities
 <br>✉️ You can contact me at ishadispieris@gmail.com<br>
