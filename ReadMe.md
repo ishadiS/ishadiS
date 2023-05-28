@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋,<br>'I'm BHIS Pieris 👩‍💻<br><br>🎓  Final Year Undergraduate student at SLTC Research University<br>🔭 Currently working on<br>🧠 Currently I'm learning<br>✉️  You can contact me at ishadispieris@gmail.com<br>
+Hi there 👋,<br>I'm BHIS Pieris, a passionate coder and cyber security enthusiast. 👩‍💻<br><br>🎓 Final Year Undergraduate student at SLTC Research University<br>🔭 Currently working on honing my skills in cyber security and conducting research projects<br>🧠 Currently I'm learning advanced techniques in ethical hacking and network security<br>✉️  You can contact me at ishadispieris@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -22,6 +22,6 @@ Hi there 👋,<br>'I'm BHIS Pieris 👩‍💻<br><br>🎓  Final Year Undergrad
 ![](https://github-contributor-stats.vercel.app/api?username=ishadiS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishadiS&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ishadiS&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
