@@ -31,11 +31,11 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true")<br/>
-<img height="180em" src= "https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false")<br/>
-<img height="180em" src=  "https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact")
-  </p>
+<img height="180em" src= "https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false")<br/> </p>
+<p align="center"><img height="180em" src=  "https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact")</p>
+ 
 
      
 <br><br>
