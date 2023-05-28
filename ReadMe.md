@@ -1,14 +1,13 @@
-
 <h2 align="right"><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a></h2>
 
 <h2 align="center">Hi there 👋,</h2>
-<h2 align="center">I'm BHIS Pieris, A passionate coder & cyber security enthusiast. 👩‍💻</h2>
-<br>🎓 Final Year Undergraduate Student at SLTC Research University
+<h2 align="center">I'm BHIS Pieris, a passionate coder & Cyber Security enthusiast. 👩‍💻</h2>
+<br>🎓 Final Year Undergraduate student at SLTC Research University
 <br>🔭 Currently working on honing my skills in Cyber Security and conducting research projects
-<br>🧠 Currently I'm learning Advanced techniques in Ethical hacking and Network security
-<br>✉️  You can contact me at ishadispieris@gmail.com<br>
+<br>🧠 Currently I'm learning Advanced techniques in Ethical Hacking and Network Security
+<br>✉️ You can contact me at ishadispieris@gmail.com<br>
 <br>
 
 
