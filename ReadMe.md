@@ -31,20 +31,19 @@
 
 # 📊 GitHub Stats:
 
-
 <p align="center">
 <a href="https://github.com">
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true")<br/>
 <img height="180em" src= "https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false")<br/>
-<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compac0t")(br/)
+     </a></p>
 
-
-<br><br>
 ## 🏆 GitHub Trophies
 <p align="center">
 <a href="https://github.com">
 <img height="180em" src= "https://github-profile-trophy.vercel.app/?username=ishadiS&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4")
 </p>    
+   
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
