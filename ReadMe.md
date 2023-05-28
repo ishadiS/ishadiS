@@ -1,7 +1,12 @@
-![image](https://user-images.githubusercontent.com/70686843/226195351-92a6ae73-e84e-4ae4-afc3-f0f7cbf982a2.png)
 
-# 💫 About Me:
-Hi there 👋,<br>I'm BHIS Pieris, a passionate coder and cyber security enthusiast. 👩‍💻<br><br>🎓 Final Year Undergraduate Student at SLTC Research University<br>🔭 Currently working on honing my skills in Cyber Security and conducting research projects<br>🧠 Currently I'm learning Advanced techniques in Ethical hacking and Network security<br>✉️  You can contact me at ishadispieris@gmail.com<br>
+
+<h2 align="center">Hi there 👋,</h2>
+<h2 align="center">I'm BHIS Pieris, A passionate coder and cyber security enthusiast. 👩‍💻</h2>
+<br>🎓 Final Year Undergraduate Student at SLTC Research University
+<br>🔭 Currently working on honing my skills in Cyber Security and conducting research projects
+<br>🧠 Currently I'm learning Advanced techniques in Ethical hacking and Network security
+<br>✉️  You can contact me at ishadispieris@gmail.com<br>
+<br>
 
 
 ## 🌐 Socials:
