@@ -6,7 +6,7 @@
 <br/>
   
 <h1 align="center">Hi There! 👋</h1>
-<h2 align="center">I'm BHIS Pieris,a passionate coder & Cyber Security enthusiast. 👩‍💻</h2>     
+<h2 align="center">I'm IS Pieris, a passionate coder & Cyber Security enthusiast. 👩‍💻</h2>     
 <br>🎓 Final Year Undergraduate student at SLTC Research University
 <br>🔭 Working on honing my skills in Cyber Security and conducting research projects
 <br>🧠 Currently I'm learning Advanced techniques in Ethical Hacking and Network Security
@@ -32,9 +32,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<a href="https://github.com/ishadis">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false">
+<a href="https://github.com/ishadis"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" "https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compac0t">
 </a></p>
 
