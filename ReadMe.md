@@ -1,5 +1,5 @@
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=IshadiS&label=Profile%20Views&color=0&icon=3&pretty=true" />
 </a>
 
 # 💫 About Me:
@@ -26,6 +26,5 @@ Hi there 👋,<br>I'm BHIS Pieris, a passionate coder and cyber security enthusi
 ![](https://github-contributor-stats.vercel.app/api?username=ishadiS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishadiS&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
