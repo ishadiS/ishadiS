@@ -1,3 +1,38 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=&&%E2%80%99%20&&&fontSize=90)
+  
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
+<div  align="center" ><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
+<br>
+<br>
+
 <h2 align="right"><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a></h2>
@@ -41,13 +76,18 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-<a href="https://github.com">
-<img height="180em" src= "https://github-profile-trophy.vercel.app/?username=ishadiS&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4")
-</p>    
+
+<div  align="center">
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ishadiS&theme=tokyonight&nocolumn=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<br>
+
    
 
-### ✍️ Random Dev Quote
+  
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
