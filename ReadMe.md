@@ -100,7 +100,9 @@
  <h2 align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=60&section=header&text=&&%E2%80%99%20&&&fontSize=90)
-  
+ 
+ <h3 align="center"><i> Thank you for visiting me !</i> 
+<hr>
 </h2>
 <br>
 
