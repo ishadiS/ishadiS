@@ -10,7 +10,7 @@
 <br>🎓 Final Year Undergraduate student at SLTC Research University
 <br>🔭 Working on honing my skills in Cyber Security and conducting research projects
 <br>🧠 Currently I'm learning Advanced techniques in Ethical Hacking and Network Security
-<br>🤝 I'm seeking open-source collaboration opportunities
+<br>🤝 I'm open to collaborate on interesting projects
 <br>✉️ You can contact me at ishadispieris@gmail.com<br>
 <br>
 
@@ -55,6 +55,7 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/figma/figma-icon.svg" alt="figma" width="65" height="65"/> 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
