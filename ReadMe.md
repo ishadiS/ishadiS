@@ -11,8 +11,7 @@
 <br>🔭 Working on honing my skills in Cyber Security and conducting research projects
 <br>🧠 Currently I'm learning Advanced techniques in Ethical Hacking and Network Security
 <br>🤝 I'm open to collaborate on interesting projects
-<br>✉️ You can contact me at [ishadispieris@gmail.com](mailto:ishadispieris@gmail.com)
-<br>
+<br>✉️ You can contact me at **ishadispieris@gmail.com**<br>
 <br>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
