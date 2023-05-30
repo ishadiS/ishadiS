@@ -77,7 +77,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <br>
 
-<div align="center">
+<div align="right">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -86,7 +86,6 @@
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 </div>
-<br>
 
 ## 🌐 Socials:
 <a href="https://facebook.com/ishadis.pieris.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishadi s pieris" height="30" width="40" /></a>
