@@ -7,7 +7,7 @@
 
 # <p align="center">Hi There! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 </p>
-<h2 align="center">I'm IS Pieris, a passionate coder & Cyber Security enthusiast. 👩‍💻</h2>     
+<h2 align="center">I'm I_S_Pieris, a passionate coder & Cyber Security enthusiast. 👩‍💻</h2>     
 <br>🎓 Final Year Undergraduate student at SLTC Research University
 <br>🔭 Working on honing my skills in Cyber Security and conducting research projects
 <br>🧠 Currently I'm learning Advanced techniques in Ethical Hacking and Network Security
