@@ -1,6 +1,6 @@
 <h2 align="right"><a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a></h2>
+</a> </h2>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
