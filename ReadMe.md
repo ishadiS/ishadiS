@@ -107,8 +107,8 @@
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-<a href="https://github.com/ishadis"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/></p>
+<!--<p align="left">
+<a href="https://github.com/ishadis"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/></p>-->
  
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false"/> </p>
