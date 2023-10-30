@@ -74,9 +74,9 @@
 
 <div align="right">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="65"/> 
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<!--<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />-->
+<!--<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />-->
+<!--<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />-->
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -85,7 +85,7 @@
 </div>
 
 ## 🌐 Socials:
-<a href="https://facebook.com/ishadis.pieris.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishadi s pieris" height="30" width="40" /></a>
+<!-- <a href="https://facebook.com/ishadis.pieris.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishadi s pieris" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/ishadi-s-pieris-a464bb1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishadi s pieris" height="30" width="40" /></a>
 <a href="ishadispieris@gmail.com"><img alt="ishadiS" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail" alt="ishadi s pieris" height="30" ></a>
 <br><br><br>
