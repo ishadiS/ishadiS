@@ -1,4 +1,4 @@
-<h2 align="right"><a href="https://visitcount.itsvg.in">
+<h2 align="right"><a>
 <img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a></h2>
 
