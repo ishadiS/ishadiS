@@ -1,5 +1,4 @@
 <h2 align="right"><a>
-<img src="https://visitcount.itsvg.in/api?id=ishadiS&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </a></h2>
 
 <a href="https://github.com/404"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -98,19 +97,6 @@
 <a href="https://www.hackerearth.com/@ishadis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ishadis" height="30" width="40" /></a>
 </p> 
 -->
-
-## 📊 GitHub Stats:
-
-<!--<p align="left">
-<a href="https://github.com/ishadis"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/></p>-->
- 
-<p align="left">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishadiS&theme=tokyonight&hide_border=false"/> </p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishadiS&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> </p>
-
-<!--<a href="https://github.com/ishadiS" align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishadiS&langs_count=10&title_color=0891b2theme=tokyonigh&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
 
 ## 🏆 GitHub Trophies
